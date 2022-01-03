@@ -16,7 +16,7 @@ export default function Portfolio() {
 
   const portfolioData = [
     { url: image1, title: " Tic-Tac-Toe ", link: "https://kumarprashantkp786.github.io/TIC-TAC-TOE/" },
-    { url: image2, title: " Todo-List ", link: "https://kumarprashantkp786.github.io/TodoListApp/" },
+    { url: image2, title: " Todo-List App", link: "https://kumarprashantkp786.github.io/TodoListApp/" },
     { url: image3, title: " Github profile API ", link: "https://kumarprashantkp786.github.io/github_API_Profile_searcher/" },
     { url: image4, title: " website php ", link: "https://studyfunduniya.000webhostapp.com/" },
     { url: image5, title: " Portfolio ", link: "https://studyfunduniya.000webhostapp.com/konnexions2.html" },
