@@ -56,11 +56,6 @@ export default function AboutUs() {
                   "A web developer and ML enthusiast who loves to codes something that wiil impact majority of the people in good way !",
               })}
               <br />
-              {/* {CardMedia({
-              label: "labae1",
-              Desc: "Desc1",
-              Icon: <AcUnitIcon />,
-            })} */}
               <Grid container>
                 {cardMediaData.map((item, i) => (
                   <Grid item xs={12} sm={6} key={i}>
