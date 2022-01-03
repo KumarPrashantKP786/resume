@@ -20,7 +20,7 @@ export default function Portfolio() {
     { url: image3, title: " Github profile API ", link: "https://kumarprashantkp786.github.io/github_API_Profile_searcher/" },
     { url: image4, title: " website php ", link: "https://studyfunduniya.000webhostapp.com/" },
     { url: image5, title: " Portfolio ", link: "https://studyfunduniya.000webhostapp.com/konnexions2.html" },
-    { url: image6, title: "  Resume ", link: "https://drive.google.com/file/d/1W7md8DPy1LhXgpokRBA6pAo3cwbkR49D/view?usp=sharing" },
+    { url: image6, title: " My Resume ", link: "https://drive.google.com/file/d/1W7md8DPy1LhXgpokRBA6pAo3cwbkR49D/view?usp=sharing" },
   ];
 
   return (
