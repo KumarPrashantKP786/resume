@@ -53,7 +53,7 @@ export default function AboutUs() {
                 smallText: "ABOUT ME",
                 heading: "Hello I'm Kumar Prashant",
                 description:
-                  "A web developer and ML enthusiast who loves to codes something that wiil impact majority of the people in good way !",
+                  "A web developer and ML enthusiast who loves to codes something that wiil impact majority of the people in good waay !",
               })}
               <br />
               <Grid container>
